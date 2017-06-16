@@ -1,0 +1,8 @@
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\bin\Debug\netcoreapp1.1\BenimSilinecekProjem.deps.json
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\bin\Debug\netcoreapp1.1\BenimSilinecekProjem.runtimeconfig.json
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\bin\Debug\netcoreapp1.1\BenimSilinecekProjem.runtimeconfig.dev.json
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\bin\Debug\netcoreapp1.1\BenimSilinecekProjem.dll
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\bin\Debug\netcoreapp1.1\BenimSilinecekProjem.pdb
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\obj\Debug\netcoreapp1.1\BenimSilinecekProjem.AssemblyInfo.cs
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\obj\Debug\netcoreapp1.1\BenimSilinecekProjem.dll
+C:\Users\Sefika\Desktop\BenimSilinecekProjem\obj\Debug\netcoreapp1.1\BenimSilinecekProjem.pdb
